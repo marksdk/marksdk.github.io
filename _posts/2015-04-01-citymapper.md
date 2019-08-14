@@ -13,7 +13,7 @@ Such clever design in the Citymapper app for Apple Watch.
 The copy is spot on too:
 
 > Tim Cook says it's time
-> 
+
 > We support nappers
->
+
 > Uhoh, Caltrain is late
