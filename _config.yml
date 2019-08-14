@@ -43,6 +43,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-future: false
-show_drafts: false
