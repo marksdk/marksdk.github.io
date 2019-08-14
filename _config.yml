@@ -44,3 +44,5 @@ plugins:
 
 future: false
 show_drafts: false
+permalink: pretty
+destination: public
