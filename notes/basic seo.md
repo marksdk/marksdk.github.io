@@ -4,9 +4,9 @@ title: Basic SEO tips
 ---
 
 - [add "&pws=0" for no personlization](http://www.google.com/search?q=seo&pws=0)
-- max 66 characters in your <title>-tag
-- put page title before website title in your <title>-tag
-- use proper formatting (headlines go in <H>-tags)
+- max 66 characters in your `<title>`-tag
+- put page title before website title in your `<title>`-tag
+- use proper formatting (headlines go in `<H>`-tags)
 - ["Making your pages more accessible to robots is for robots."](http://powazek.com/posts/2101)
 - Write for humans, not robots
 - Write good, interesting content using the proper words you want to promote
@@ -36,7 +36,7 @@ title: Basic SEO tips
 
 Good links:
 
-- http://searchengineland.com/an-open-letter-to-derek-powazek-on-the-value-of-seo-27680
-- http://powazek.com/posts/2146
-- http://powazek.com/posts/2101
-- http://www.mattcutts.com
+- [http://searchengineland.com/an-open-letter-to-derek-powazek-on-the-value-of-seo-27680](http://searchengineland.com/an-open-letter-to-derek-powazek-on-the-value-of-seo-27680)
+- [http://powazek.com/posts/2146](http://powazek.com/posts/2146)
+- [http://powazek.com/posts/2101](http://powazek.com/posts/2101)
+- [http://www.mattcutts.com](http://www.mattcutts.com)
